@@ -1,0 +1,22 @@
+[
+    {
+        "name": "neco",
+        "values": [
+            ["parek?", "rizek", false],
+            ["rizek?", "segz", false],
+            ["segz?", "pinys", false],
+            ["pinys?", "hotel", false],
+            ["hotel?", "trivago", false]
+        ]
+    },
+    {
+        "name": "neco seksy",
+        "values": [
+            ["mrdat?", "rizek", false],
+            ["ceckyu?", "segz", false],
+            ["do?", "hotel", false],
+            ["prdele?", "trivago", false],
+            ["cinkacka?", "anime planet", false]
+        ]
+    }
+]
