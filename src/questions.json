@@ -16,7 +16,7 @@
             ["Kolik lidí z 6. G má alespoň jednoho rodiče, který studoval na GVIDu?", "4", false],
             ["Kdo byl třídní učitel třídy 1. C ve školním roce 1994/1995?", "Miloš Doležal", false],
             ["Kolik úkolů bylo na přijímacích zkouškách z Českého jazyka v roce 1995 v prvním termínu?", "11", false],
-            ["Kolik lidí obdrželo od ředitele prospěchové studium ve výši 500 korun ve školním roce 1997/1998?", "15", false]
+            ["Kolik lidí obdrželo od ředitele prospěchové studium ve výši 500 Korun ve školním roce 1997/1998?", "15", false]
         ]
     },
     {
@@ -45,7 +45,7 @@
             ["Kolik ma Petr mikin?", "5", false],
             ["Jaká je velikost boty Ondřeje?", "Kolik, Ondřeji? Já to nevím.", false],
             ["Komunistickou revoluci jakého státu má Drozd na tričku?", "Mosambik", false],
-            ["Kolik kachen má Verča na tričku (tolerance ±15)", "226", false],
+            ["Kolik kachen má Verča na tričku (tolerance ±15)?", "226", false],
             ["Jakou barvu trička měl Tomáš na třídní fotce ze sekundy?", "Červenou", false]
         ]
     }
