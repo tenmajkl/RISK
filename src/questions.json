@@ -23,7 +23,7 @@
         "name": "Škola online",
         "values": [
             ["Kdo dostal jedničku z Prahy v němčině v té horší skupině (jmenuje všechny)?", "Vašek, Klárka", false],
-            ["V jakém předmětu má Roman nejvyšší absenci?", "", false],
+            ["V jakém předmětu má Roman nejvyšší absenci?", "Romane, podíváš se, prosím? 🥺 ", false],
             ["Jaký byl třídní průměr z praktického testu z progrmování(Tolerance ±0.3)?", "2.24", false],
             ["V jaké učebně máme v pátek matematiku?", "302", false],
             ["CINKAČKA JAK BLÁZEN", "Získáváte okamžitě 300 bodů!", false]
@@ -43,7 +43,7 @@
         "name": "Oblečení",
         "values": [
             ["Kolik ma Petr mikin?", "5", false],
-            ["Jaká je velikost boty Ondřeje?", " ", false],
+            ["Jaká je velikost boty Ondřeje?", "Kolik, Ondřeji? Já to nevím.", false],
             ["Komunistickou revoluci jakého státu má Drozd na tričku?", "Mosambik", false],
             ["Kolik kachen má Verča na tričku (tolerance ±15)", "226", false],
             ["Jakou barvu trička měl Tomáš na třídní fotce ze sekundy?", "Červenou", false]
