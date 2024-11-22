@@ -1,22 +1,52 @@
 [
     {
-        "name": "neco",
+        "name": "Lidl",
         "values": [
-            ["parek?", "rizek", false],
-            ["rizek?", "segz", false],
-            ["segz?", "pinys", false],
-            ["pinys?", "hotel", false],
-            ["hotel?", "trivago", false]
+            ["Jaká je otevírací doba Lidlu na Vídeňské v Brně?", "7-22", false],
+            ["Jmenujte alespoň 4 značky Lidlu?", "<img src='lidl.webp'>", false],
+            ["Jaký je právě týden v Lidlu?", "to nejlepší z regionů", false],
+            ["Co je nejčastější pečivo, co si student koupí v Lidlu?", "Bagetka světlá (ti co ví 🤫)", false],
+            ["Kolik nejvíce Freeway coly vypil Kryštof Malina za jeden týden? Uveďte v holbách, tolerance ±3 holby. ", "16.19 holb", false]
+        ]
+        },
+    {
+        "name": "Historie školy",
+        "values": [
+            ["Kdo byl ředitel v roce 2006?", "Pavel Faltýsek", false],
+            ["Kolik lidí z 6. G má alespoň jednoho rodiče, který studoval na GVIDu?", "4", false],
+            ["Kdo byl třídní učitel třídy 1. C ve školním roce 1994/1995?", "Miloš Doležal", false],
+            ["Kolik úkolů bylo na přijímacích zkouškách z Českého jazyka v roce 1995 v prvním termínu?", "11", false],
+            ["Kolik lidí obdrželo od ředitele prospěchové studium ve výši 500 korun ve školním roce 1997/1998?", "15", false]
         ]
     },
     {
-        "name": "neco seksy",
+        "name": "Škola online",
         "values": [
-            ["mrdat?", "rizek", false],
-            ["ceckyu?", "segz", false],
-            ["do?", "hotel", false],
-            ["prdele?", "trivago", false],
-            ["cinkacka?", "anime planet", false]
+            ["Kdo dostal jedničku z Prahy v němčině v té horší skupině (jmenuje všechny)?", "Vašek, Klárka", false],
+            ["V jakém předmětu má Roman nejvyšší absenci?", "", false],
+            ["Jaký byl třídní průměr z praktického testu z progrmování(Tolerance ±0.3)?", "2.24", false],
+            ["V jaké učebně máme v pátek matematiku?", "302", false],
+            ["CINKAČKA JAK BLÁZEN", "Získáváte okamžitě 300 bodů!", false]
+        ]
+    },
+    {
+        "name": "Náhodné",
+        "values": [
+            ["Kolik cigaret vykouřil Drozd v období 1. – 13. listopadu?", "0", false],
+            ["Jak se jmenuje mobilní hra, kterou neustále hrají Dominik a Vítek v hodinách?", "Brawlstars", false],
+            ["Kdo spadl v první hodině fyziky ze židle?", "Drozd", false],
+            ["CINKAČKA JAK BLÁZEN", "Získáváte okamžitě 400 bodů", false],
+            ["Kolik ma Michal Křipač kazet ±10?", " 114", false]
+        ]
+    },
+    {
+        "name": "Oblečení",
+        "values": [
+            ["Kolik ma Petr mikin?", "5", false],
+            ["Jaká je velikost boty Ondřeje?", " ", false],
+            ["Komunistickou revoluci jakého státu má Drozd na tričku?", "Mosambik", false],
+            ["Kolik kachen má Verča na tričku (tolerance ±15)", "226", false],
+            ["Jakou barvu trička měl Tomáš na třídní fotce ze sekundy?", "Červenou", false]
         ]
     }
 ]
