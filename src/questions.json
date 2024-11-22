@@ -22,11 +22,11 @@
     {
         "name": "Škola online",
         "values": [
-            ["Kdo dostal jedničku z Prahy v němčině v té horší skupině (jmenuje všechny)?", "Vašek, Klárka", false],
             ["V jakém předmětu má Roman nejvyšší absenci?", "Romane, podíváš se, prosím? 🥺 ", false],
-            ["Jaký byl třídní průměr z praktického testu z progrmování(Tolerance ±0.3)?", "2.24", false],
             ["V jaké učebně máme v pátek matematiku?", "302", false],
-            ["CINKAČKA JAK BLÁZEN", "Získáváte okamžitě 300 bodů!", false]
+            ["CINKAČKA JAK BLÁZEN", "Získáváte okamžitě 300 bodů!", false],
+            ["Jaký byl třídní průměr z praktického testu z progrmování (tolerance ±0.3)?", "2.24", false],
+            ["Kdo dostal jedničku z Prahy v němčině v té horší skupině (jmenuje všechny)?", "Vašek, Klárka", false],
         ]
     },
     {
@@ -36,7 +36,7 @@
             ["Jak se jmenuje mobilní hra, kterou neustále hrají Dominik a Vítek v hodinách?", "Brawlstars", false],
             ["Kdo spadl v první hodině fyziky ze židle?", "Drozd", false],
             ["CINKAČKA JAK BLÁZEN", "Získáváte okamžitě 400 bodů", false],
-            ["Kolik ma Michal Křipač kazet ±10?", " 114", false]
+            ["Kolik ma Michal Křipač kazet (tolerance ±10)?", " 114", false]
         ]
     },
     {
